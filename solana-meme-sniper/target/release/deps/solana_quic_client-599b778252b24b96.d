@@ -1,0 +1,10 @@
+/workspace/private-alphas/solana-meme-sniper/target/release/deps/libsolana_quic_client-599b778252b24b96.rmeta: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/nonblocking/mod.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/nonblocking/quic_client.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/quic_client.rs
+
+/workspace/private-alphas/solana-meme-sniper/target/release/deps/libsolana_quic_client-599b778252b24b96.rlib: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/nonblocking/mod.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/nonblocking/quic_client.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/quic_client.rs
+
+/workspace/private-alphas/solana-meme-sniper/target/release/deps/solana_quic_client-599b778252b24b96.d: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/nonblocking/mod.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/nonblocking/quic_client.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/quic_client.rs
+
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/lib.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/nonblocking/mod.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/nonblocking/quic_client.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.26/src/quic_client.rs:

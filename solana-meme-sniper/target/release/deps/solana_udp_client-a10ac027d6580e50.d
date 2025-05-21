@@ -1,0 +1,10 @@
+/workspace/private-alphas/solana-meme-sniper/target/release/deps/libsolana_udp_client-a10ac027d6580e50.rmeta: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/nonblocking/mod.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/nonblocking/udp_client.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/udp_client.rs
+
+/workspace/private-alphas/solana-meme-sniper/target/release/deps/libsolana_udp_client-a10ac027d6580e50.rlib: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/nonblocking/mod.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/nonblocking/udp_client.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/udp_client.rs
+
+/workspace/private-alphas/solana-meme-sniper/target/release/deps/solana_udp_client-a10ac027d6580e50.d: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/nonblocking/mod.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/nonblocking/udp_client.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/udp_client.rs
+
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/lib.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/nonblocking/mod.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/nonblocking/udp_client.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.26/src/udp_client.rs:
